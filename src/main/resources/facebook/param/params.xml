@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<param>
+    <id>idapplication</id>
+    <token>tokenfacebook</token>
+    <url>https://graph.facebook.com/v2.5/</url>
+    <pathxml>resources/xml/pressefb.xml</pathxml>
+    <maxword>50</maxword>
+    <maxarticles>9</maxarticles>
+</param>
